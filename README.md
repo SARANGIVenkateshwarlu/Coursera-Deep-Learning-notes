@@ -1,7 +1,7 @@
 📘 Deep Learning Specialization – Course Materials & Notes
 ---
 
-This repository contains my organized notes, reading materials, and implementation code from the Deep Learning Specialization offered by Coursera (Completed in 2020).
+This repository contains my organized notes, reading materials, and implementation code from the Deep Learning Specialization offered by Coursera.
 
 The specialization consists of 5 comprehensive courses covering deep learning fundamentals, optimization techniques, CNNs, and sequence models.
 
@@ -200,4 +200,5 @@ This repository is meant for:
     Helping new learners understand deep learning step-by-step
 
 If you find this helpful, consider ⭐ starring the repository!
+
 ---
